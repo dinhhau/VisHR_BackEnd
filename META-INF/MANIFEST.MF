@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Main-Class: vn.vissoft.portal.VPBackendApplication
+Class-Path: springfox-spring-web-2.9.2.jar jasypt-spring-boot-2.0.0.jar 
+ jasypt-1.9.2.jar spring-data-jpa-2.1.4.RELEASE.jar jopt-simple-5.0.2.ja
+ r animal-sniffer-annotations-1.14.jar lucene-spatial3d-7.4.0.jar docume
+ nts4j-api-1.0.3.jar HdrHistogram-2.1.9.jar java-sizeof-0.0.4.jar spring
+ -boot-starter-web-2.1.2.RELEASE.jar springfox-swagger-common-2.9.2.jar 
+ mapstruct-1.2.0.Final.jar activation-1.1.jar docx4j-3.3.6.jar httpclien
+ t-4.5.6.jar jna-4.5.1.jar spring-plugin-metadata-1.2.0.RELEASE.jar jack
+ son-databind-2.9.8.jar mariadb-java-client-2.1.2.jar jul-to-slf4j-1.7.2
+ 5.jar spring-boot-starter-json-2.1.2.RELEASE.jar avalon-framework-impl-
+ 4.3.1.jar rank-eval-client-6.4.3.jar documents4j-transformer-api-1.0.3.
+ jar javax.mail-1.6.2.jar jackson-datatype-jsr310-2.9.8.jar spring-boot-
+ 2.1.2.RELEASE.jar spring-boot-starter-2.1.2.RELEASE.jar jackson-datafor
+ mat-yaml-2.9.8.jar springfox-swagger2-2.9.2.jar xmlbeans-3.1.0.jar clas
+ smate-1.4.0.jar spring-data-elasticsearch-3.1.4.RELEASE.jar antlr-runti
+ me-3.5.2.jar log4j-1.2.17.jar springfox-schema-2.9.2.jar poi-4.1.0.jar 
+ concurrentlinkedhashmap-lru-1.2_jdk5.jar javassist-3.19.0-GA.jar hibern
+ ate-core-5.3.7.Final.jar lucene-queries-7.4.0.jar spring-security-web-5
+ .1.3.RELEASE.jar elasticsearch-secure-sm-6.4.3.jar lucene-spatial-extra
+ s-7.4.0.jar antlr-2.7.7.jar aspectjweaver-1.9.2.jar orika-core-1.4.6.ja
+ r lucene-sandbox-7.4.0.jar lucene-grouping-7.4.0.jar validation-api-2.0
+ .1.Final.jar spring-boot-starter-aop-2.1.2.RELEASE.jar spring-boot-star
+ ter-cache-2.1.2.RELEASE.jar documents4j-util-transformer-process-1.0.3.
+ jar avalon-framework-api-4.3.1.jar commons-io-2.4.jar ant-1.8.2.jar spr
+ ing-plugin-core-1.2.0.RELEASE.jar stringtemplate-3.2.1.jar spring-conte
+ xt-5.1.4.RELEASE.jar spring-boot-autoconfigure-2.1.2.RELEASE.jar common
+ s-configuration2-2.6.jar logback-core-1.2.3.jar netty-codec-4.1.31.Fina
+ l.jar poi-ooxml-schemas-4.1.0.jar xalan-2.7.2.jar parent-join-client-6.
+ 4.3.jar spring-boot-starter-jdbc-2.1.2.RELEASE.jar lucene-suggest-7.4.0
+ .jar elasticsearch-core-6.4.3.jar spring-security-core-5.1.3.RELEASE.ja
+ r elasticsearch-6.4.3.jar ooxml-schemas-1.4.jar jsr305-1.3.9.jar parana
+ mer-2.7.jar curvesapi-1.06.jar spring-boot-starter-tomcat-2.1.2.RELEASE
+ .jar log4j-api-2.11.1.jar transport-6.4.3.jar spring-jcl-5.1.4.RELEASE.
+ jar itext-2.1.7.jar fr.opensagres.poi.xwpf.converter.core-2.0.2.jar spr
+ ing-aspects-5.1.4.RELEASE.jar spring-tx-5.1.4.RELEASE.jar documents4j-t
+ ransformer-msoffice-word-1.0.3.jar documents4j-local-1.0.3.jar document
+ s4j-util-conversion-1.0.3.jar commons-compress-1.18.jar spring-security
+ -oauth2-2.0.10.RELEASE.jar ant-launcher-1.8.2.jar dom4j-2.1.1.jar docum
+ ents4j-transformer-msoffice-base-1.0.3.jar error_prone_annotations-2.0.
+ 18.jar commons-text-1.8.jar httpcore-nio-4.4.10.jar jackson-dataformat-
+ cbor-2.9.8.jar netty-common-4.1.31.Final.jar lucene-highlighter-7.4.0.j
+ ar spring-webmvc-5.1.4.RELEASE.jar spring-data-commons-2.1.4.RELEASE.ja
+ r mbassador-1.2.4.2.jar springfox-swagger-ui-2.9.2.jar t-digest-3.2.jar
+  jackson-module-parameter-names-2.9.8.jar lucene-join-7.4.0.jar jcl-ove
+ r-slf4j-1.7.25.jar lucene-core-7.4.0.jar byte-buddy-1.9.7.jar jaxb-api-
+ 2.3.1.jar reindex-client-6.4.3.jar spring-boot-starter-logging-2.1.2.RE
+ LEASE.jar jackson-dataformat-smile-2.9.8.jar commons-math3-3.6.1.jar ja
+ vax.activation-api-1.2.0.jar commons-fileupload-1.3.3.jar spring-web-5.
+ 1.4.RELEASE.jar spring-jdbc-5.1.4.RELEASE.jar spring-orm-5.1.4.RELEASE.
+ jar logback-classic-1.2.3.jar serializer-2.7.2.jar netty-resolver-4.1.3
+ 1.Final.jar hibernate-validator-6.0.14.Final.jar compiler-0.9.3.jar spr
+ ing-security-config-5.1.3.RELEASE.jar fr.opensagres.xdocreport.itext.ex
+ tension-2.0.2.jar lucene-backward-codecs-7.4.0.jar xmlgraphics-commons-
+ 2.1.jar lang-mustache-client-6.4.3.jar jsoup-1.11.3.jar elasticsearch-c
+ li-6.4.3.jar spring-boot-starter-mail-2.1.2.RELEASE.jar commons-logging
+ -1.2.jar spring-aop-5.1.4.RELEASE.jar jackson-annotations-2.9.0.jar com
+ mons-lang3-3.0.jar poi-ooxml-4.1.0.jar wmf2svg-0.9.8.jar poi-excelant-4
+ .1.0.jar netty-buffer-4.1.31.Final.jar javax.annotation-api-1.3.2.jar s
+ pring-core-5.1.4.RELEASE.jar spring-boot-starter-data-jpa-2.1.2.RELEASE
+ .jar documents4j-transformer-1.0.3.jar elasticsearch-rest-client-6.4.3.
+ jar netty-handler-4.1.31.Final.jar jandex-2.0.5.Final.jar slf4j-api-1.7
+ .25.jar commons-codec-1.11.jar lucene-queryparser-7.4.0.jar jboss-loggi
+ ng-3.3.2.Final.jar hppc-0.7.1.jar spring-boot-starter-data-elasticsearc
+ h-2.1.2.RELEASE.jar httpasyncclient-4.1.4.jar javax.persistence-api-2.2
+ .jar tomcat-embed-core-9.0.14.jar j2objc-annotations-1.1.jar jasypt-spr
+ ing-boot-starter-2.0.0.jar springfox-core-2.9.2.jar springfox-spi-2.9.2
+ .jar joda-time-2.10.1.jar jackson-datatype-jdk8-2.9.8.jar spring-boot-d
+ evtools-2.1.2.RELEASE.jar lucene-analyzers-common-7.4.0.jar jackson-cor
+ e-asl-1.9.13.jar spring-beans-5.1.4.RELEASE.jar httpcore-4.4.10.jar fr.
+ opensagres.poi.xwpf.converter.pdf-2.0.2.jar documents4j-util-all-1.0.3.
+ jar mail-1.4.7.jar netty-transport-4.1.31.Final.jar jaxb-svg11-1.0.2.ja
+ r javax.transaction-api-1.3.jar lucene-misc-7.4.0.jar percolator-client
+ -6.4.3.jar netty-codec-http-4.1.31.Final.jar tomcat-embed-el-9.0.14.jar
+  hibernate-commons-annotations-5.0.4.Final.jar spring-boot-starter-secu
+ rity-2.1.2.RELEASE.jar swagger-models-1.5.20.jar spring-expression-5.1.
+ 4.RELEASE.jar jackson-core-2.9.8.jar guava-23.0.jar commons-collections
+ 4-4.3.jar transport-netty4-client-6.4.3.jar mysql-connector-java-8.0.13
+ .jar swagger-annotations-1.5.20.jar elasticsearch-x-content-6.4.3.jar t
+ omcat-embed-websocket-9.0.14.jar spring-context-support-5.1.4.RELEASE.j
+ ar lorem-2.0.jar lucene-memory-7.4.0.jar zt-exec-1.8.jar lucene-spatial
+ -7.4.0.jar snakeyaml-1.23.jar log4j-to-slf4j-2.11.1.jar jackson-mapper-
+ asl-1.9.13.jar HikariCP-3.2.0.jar
+
